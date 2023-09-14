@@ -1,4 +1,4 @@
-# Data Science Chrun Rate Analysis: Project Overview 
+# Data Science Churn Rate Analysis: Project Overview 
 * Develop a model that analysis the user's churn rate and help answer following questions-
  1. Who are the users most likely to churn?
  2. Why do users churn?
